@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //margin
+    <dimen name="margin_xsmall">4dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+    <dimen name="margin_xxlarge">64dp</dimen>
+
+    //padding
+    <dimen name="padding_small">12dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+
+    //string
+    <dimen name="text_size_xsmall">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">20sp</dimen>
+    <dimen name="text_size_large">32sp</dimen>
+    <dimen name="text_size_xlarge">64sp</dimen>
+
+    //radius
+    <dimen name="small_radius">5dp</dimen>
+    <dimen name="medium_radius">10dp</dimen>
+    <dimen name="large_radius">15dp</dimen>
+    <dimen name="xlarge_radius">20dp</dimen>
+</resources>

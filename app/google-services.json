@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857652154916",
+    "project_id": "biyolla-64543",
+    "storage_bucket": "biyolla-64543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857652154916:android:08b9eb9eaede0ba2907eb1",
+        "android_client_info": {
+          "package_name": "com.example.biyolla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo7klV9Byaw4lJ9xdC8zQyxFCevH_-WIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BiYolla</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Hoşgeldin Kerem</string>
+    <string name="product_name">Ayran</string>
+    <string name="product_price">20 ₺</string>
+    <string name="price">40 ₺</string>
+    <string name="detail_header">Ürün Detayı</string>
+    <string name="piece">1</string>
+    <string name="add_cart">Sepete Ekle</string>
+    <string name="cart_header">Sepetim</string>
+    <string name="price_name">Fiyat :</string>
+    <string name="piece_name">Adet :</string>
+    <string name="total_text">Toplam :</string>
+    <string name="confirm_cart">Sepeti Onayla</string>
+    <string name="total_price">100 ₺</string>
+    <string name="sign_up">Üye Ol</string>
+    <string name="signup_info">Bize katılın ve sadece bir dokunuşla lezzetli bir yolculuğun tadını çıkarın!</string>
+    <string name="sign_in">Giriş Yap</string>
+    <string name="sign_in_text">Giriş Yap</string>
+    <string name="favorites">Favoriler</string>
+    <string name="hosgeldin_text">Hoşgeldin!</string>
+    <string name="signin_info">Lezzetli yiyeceklerin tadını çıkarma zamanı!</string>
+    <string name="uye_ol">Üye Ol</string>
+    <string name="sifre">Şifre</string>
+    <string name="email">Email</string>
+    <string name="kullanici_adi">Kullanıcı Adı</string>
+    <string name="soyad">Soyad\n</string>
+    <string name="ad">Ad</string>
+    <string name="favori_bos">Favoriye eklenmiş ürün yok.</string>
+    <string name="biyolla">BiYolla</string>
+</resources>
